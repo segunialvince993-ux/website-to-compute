@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Happy 2nd Monthsary, Aki!</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #ffe6eb;
+      color: #4b2c2c;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      color: #d6336c;
+      margin-top: 20px;
+    }
+
+    .letter {
+      background: #fff0f5;
+      border-radius: 15px;
+      padding: 20px;
+      max-width: 600px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+
+    .letter p {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+
+    .photos {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      align-items: center;
+      width: 100%;
+      max-width: 600px;
+      margin-bottom: 30px;
+    }
+
+    .photos img {
+      width: 100%;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .music {
+      margin: 30px 0;
+      width: 100%;
+      max-width: 600px;
+    }
+
+    footer {
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #a06767;
+    }
+
+    @media (min-width: 700px) {
+      h1 {
+        font-size: 3em;
+      }
+
+      .letter p {
+        font-size: 1.4em;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Happy 2nd Monthsary, Aki! 💖</h1>
+
+  <div class="letter">
+    <p>
+      Happy 2nd Month aki!!<br><br>
+      I love you so muchhh. I will always fight for you, be a shoulder to cry on, make you happy and love you. <br><br>
+      Mahal na Mahal kita so much akii ❤
+    </p>
+  </div>
+
+  <div class="photos">
+    <img src="IMG_4267.JPG" alt="Photo 1">
+    <img src="IMG_4269.JPG" alt="Photo 2">
+    <img src="IMG_4270.JPG" alt="Photo 3">
+  </div>
+
+  <div class="music">
+    <iframe style="border-radius:12px" 
+      src="https://open.spotify.com/embed/track/3vkCueOmm7xQDoJ17W1Pm3?utm_source=generator" 
+      width="100%" height="352" frameBorder="0" allowfullscreen="" 
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+    </iframe>
+  </div>
+
+  <footer>
+    Made with 💌 for Aki — 2 months of love and counting...
+  </footer>
+
+</body>
+</html>
